@@ -16,12 +16,20 @@
   border-color: #dc3545;
 }
 
+.who {
+  color: white;
+}
+
 .sulogo {
   width: 5rem;
 }
 
 .title {
   font-size: 2.5rem;
+}
+
+#fast-access {
+  right: 0;
 }
 
 @media (max-width: 768px) {
